@@ -1,2 +1,3 @@
-# notes-console-app
-notes-console-app
+# Notes Console App
+
+Simple notes app with tests.
